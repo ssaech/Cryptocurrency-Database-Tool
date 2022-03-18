@@ -13,6 +13,6 @@ Below is the set up of the PostgreSQL server on my personal computer
 <img width="1040" alt="PorstegeSQL Screenshot" src="https://user-images.githubusercontent.com/101516958/159086477-c1ba7bbc-4663-419f-9aa1-2fab9fcf8836.png">
 
 Below is the output of Cryptocurrency Database Results.ipynb
-<img width="1040" alt="Crypto Screenshot" src="https://user-images.githubusercontent.com/101516958/159086830-3928f013-f01a-4de7-8f9d-fbde655391e4.png">
+<img width="1040" alt="Crypto Screenshot" src="https://user-images.githubusercontent.com/101516958/159090239-e28f3b02-4502-4948-b6bf-29daf3217463.png">
 
 
